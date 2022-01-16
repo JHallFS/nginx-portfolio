@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo&display=swap");
+body {
+  font-family: "Arvo", serif;
+  background-color: #CFEBDF;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #9BC4CB;
+  display: flex;
+  justify-content: space-around;
+}
+header ul {
+  list-style: none;
+  display: flex;
+}
+header ul li {
+  padding-right: 5px;
+  margin: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
